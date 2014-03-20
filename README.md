@@ -12,12 +12,13 @@ open source mirror resources in YZU
 ## Distrubution Install ISO/Image
  - Debian
  - Ubuntu
+ - Linux Mint
  - Linux Deepin
 
 ## Distrubution Repositry
  - Debian
  - Ubuntu
- - Linux Mint
+ - Linux Mint (including Debian Edition)
  - Linux Deepin
 
 # For Raspberry Pi
@@ -34,3 +35,4 @@ open source mirror resources in YZU
 
 ### Software Repositry
  - Raspbian
+ - archive.raspberrypi.org (also for Raspbian)
