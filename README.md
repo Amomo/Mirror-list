@@ -7,19 +7,19 @@ open source mirror resources in YZU
 
 # Linux
 
-## Kernel
+## [Kernel](http://forum.cse.yzu.edu.tw/Linux/kernel/)
 
 ## Distrubution Install ISO/Image
- - Debian
- - Ubuntu
- - Linux Mint
- - Linux Deepin
+ - [Debian](http://linux.cse.yzu.edu.tw/debian-cd/)
+ - [Ubuntu](http://linux.cse.yzu.edu.tw/ubuntu-releases/)
+ - [Linux Mint](http://forum.cse.yzu.edu.tw/Linux/linuxmint/isos/)
+ - [Linux Deepin](http://forum.cse.yzu.edu.tw/Linux/Deepin/deepin-cd/)
 
 ## Distrubution Repositry
- - Debian
- - Ubuntu
- - Linux Mint (including Debian Edition)
- - Linux Deepin
+ - [Debian](http://linux.cse.yzu.edu.tw/debian/)
+ - [Ubuntu](http://linux.cse.yzu.edu.tw/ubuntu/)
+ - [Linux Mint](http://forum.cse.yzu.edu.tw/Linux/linuxmint/packages/) (including [Debian Edition](http://forum.cse.yzu.edu.tw/Linux/linuxmint/debian/latest/))
+ - [Linux Deepin](http://forum.cse.yzu.edu.tw/Linux/Deepin/deepin/)
 
 # For Raspberry Pi
 
