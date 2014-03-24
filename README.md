@@ -25,7 +25,7 @@ open source mirror resources in YZU
 
 ## Operatin System
 
-### Image Download
+### [Image Download](http://forum.cse.yzu.edu.tw/Linux/raspberrypi/)
  - Raspbian
  - Arch Linux ARM
  - Pidora
@@ -34,5 +34,5 @@ open source mirror resources in YZU
  - RaspBMC
 
 ### Software Repositry
- - Raspbian
- - archive.raspberrypi.org (also for Raspbian)
+ - [Raspbian](http://ftp.cse.yzu.edu.tw/)
+ - [archive.raspberrypi.org](http://forum.cse.yzu.edu.tw/Linux/archive.raspberrypi.org/) (also for Raspbian)
