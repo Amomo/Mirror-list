@@ -18,7 +18,8 @@ open source mirror resources in YZU
 ## Distrubution Repositry
  - [Debian](http://linux.cse.yzu.edu.tw/debian/) (http|ftp|rsync)
  - [Ubuntu](http://linux.cse.yzu.edu.tw/ubuntu/) (http|ftp|rsync)
- - [Linux Mint](http://forum.cse.yzu.edu.tw/Linux/linuxmint/packages/) (including [Debian Edition](http://forum.cse.yzu.edu.tw/Linux/linuxmint/debian/latest/)) (http|ftp)
+ - [Linux Mint](http://forum.cse.yzu.edu.tw/Linux/linuxmint/packages/) (http|ftp)
+ - [Linux Mint Debian Edition(LMDE)](http://forum.cse.yzu.edu.tw/Linux/linuxmint/debian/latest/) (http|ftp)
  - [Linux Deepin](http://forum.cse.yzu.edu.tw/Linux/Deepin/deepin/) (http|ftp)
 
 # For Raspberry Pi
