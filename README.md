@@ -37,3 +37,9 @@ open source mirror resources in YZU
 ### Software Repositry
  - [Raspbian](http://ftp.cse.yzu.edu.tw/) (http|ftp|rsync)
  - [archive.raspberrypi.org](http://forum.cse.yzu.edu.tw/Linux/archive.raspberrypi.org/) (also for Raspbian) (http|ftp)
+
+
+# All Server List
+ - http://forum.cse.yzu.edu.tw/Linux/  (http|ftp)
+ - http://linux.cse.yzu.edu.tw/ (http|ftp|rsync)
+ - http://ftp.cse.yzu.edu.tw/ (http|ftp|rsync)
