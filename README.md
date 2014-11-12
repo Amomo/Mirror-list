@@ -27,6 +27,7 @@ Xubuntu(14.04+) | http://ftp.yzu.edu.tw/Linux/xubuntu-release/
 Ubuntu Gnome(14.04+) | http://ftp.yzu.edu.tw/Linux/ubuntu-gnome-releases/
 Linux Mint | http://ftp.yzu.edu.tw/Linux/linuxmint/isos/
 Linux Deepin | http://ftp.yzu.edu.tw/Linux/deepin-cd/
+Raspberry Pi | http://ftp.yzu.edu.tw/Linux/raspberrypi/
 
 ## Distrubution Repositry
 Distro name | Repo URL
@@ -36,23 +37,8 @@ Ubuntu | http://ftp.yzu.edu.tw/Linux/ubuntu/
 Linux Mint | http://ftp.yzu.edu.tw/Linux/linuxmint/packages/
 Linux Mint Debian Edition(LMDE) | http://ftp.yzu.edu.tw/Linux/linuxmint/debian/latest/
 Linux Deepin | http://ftp.yzu.edu.tw/Linux/deepin/
-
-# For Raspberry Pi
-
-## Operatin System
-
-### [Image Download](http://ftp.yzu.edu.tw/Linux/raspberrypi/)
- - Raspbian
- - Arch Linux ARM
- - Pidora
- - RISC OS
- - OpenELEC
- - RaspBMC
-
-### Software Repositry
- - [Raspbian](http://ftp.yzu.edu.tw/Linux/raspbian/raspbian/)
- - [archive.raspberrypi.org](http://ftp.yzu.edu.tw/Linux/archive.raspberrypi.org/)(also for Raspbian)
-
+Raspbian | http://ftp.yzu.edu.tw/Linux/raspbian/raspbian/
+archive.raspberrypi.org | http://ftp.yzu.edu.tw/Linux/archive.raspberrypi.org/
 
 # All Server List
  - http://ftp.cse.yzu.edu.tw/ 
