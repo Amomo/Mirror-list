@@ -43,9 +43,9 @@ archive.raspberrypi.org | http://ftp.yzu.edu.tw/Linux/archive.raspberrypi.org/
 # Archive Network
 Project Name | URL
 ------------- | -------------
-CPAN | http://ftp.yzu.edu.tw/CPAN/
-CRAN | http://ftp.yzu.edu.tw/CRAN/
-CTAN | http://ftp.yzu.edu.tw/CTAN/
+The Comprehensive Perl Archive Network (CPAN) | http://ftp.yzu.edu.tw/CPAN/
+The Comprehensive R Archive Network (CRAN) | http://ftp.yzu.edu.tw/CRAN/
+The Comprehensive TeX Archive Network (CTAN) | http://ftp.yzu.edu.tw/CTAN/
 
 # BSD
 Name | URL
