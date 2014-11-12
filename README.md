@@ -7,34 +7,34 @@ open source mirror resources in YZU
 
 # Gnu
 
-## [Gnu utils](http://forum.cse.yzu.edu.tw/gnu/) (http|ftp)
+## [Gnu utils](http://ftp.yzu.edu.tw/gnu/) (http|ftp|rsync)
 
 # Linux
 
-## [Kernel](http://forum.cse.yzu.edu.tw/Linux/kernel/) (http|ftp)
+## [Kernel](http://ftp.yzu.edu.tw/Linux/kernel/) (http|ftp|rsync)
 
 ## Distrubution Install ISO/Image
- - [Debian](http://linux.cse.yzu.edu.tw/debian-cd/) (http|ftp|rsync)
- - [Ubuntu](http://linux.cse.yzu.edu.tw/ubuntu-releases/) (http|ftp|rsync)
- - [Kubuntu(14.04+)](http://forum.cse.yzu.edu.tw/linux/kubuntu-releases/) (http|ftp)
- - [Lubuntu(14.04+)](http://forum.cse.yzu.edu.tw/linux/lubuntu-release/) (http|ftp)
- - [Xubuntu(14.04+)](http://forum.cse.yzu.edu.tw/linux/xubuntu-release/) (http|ftp)
- - [Ubuntu Gnome(14.04+)](http://forum.cse.yzu.edu.tw/linux/ubuntu-gnome-releases/) (http|ftp)
- - [Linux Mint](http://forum.cse.yzu.edu.tw/Linux/linuxmint/isos/) (http|ftp)
- - [Linux Deepin](http://forum.cse.yzu.edu.tw/Linux/Deepin/deepin-cd/) (http|ftp)
+ - [Debian](http://ftp.yzu.edu.tw/Linux/debian-cd/) (http|ftp|rsync)
+ - [Ubuntu](http://ftp.yzu.edu.tw/Linux/ubuntu-releases/) (http|ftp|rsync)
+ - [Kubuntu(14.04+)](http://ftp.yzu.edu.tw/Linux/kubuntu-releases/) (http|ftp|rsync)
+ - [Lubuntu(14.04+)](http://ftp.yzu.edu.tw/Linux/lubuntu-release/) (http|ftp|rsync)
+ - [Xubuntu(14.04+)](http://ftp.yzu.edu.tw/Linux/xubuntu-release/) (http|ftp|rsync)
+ - [Ubuntu Gnome(14.04+)](http://ftp.yzu.edu.tw/Linux/ubuntu-gnome-releases/) (http|ftp|rsync)
+ - [Linux Mint](http://ftp.yzu.edu.tw/Linux/linuxmint/isos/) (http|ftp|rsync)
+ - [Linux Deepin](http://ftp.yzu.edu.tw/Linux/deepin-cd/) (http|ftp|rsync)
 
 ## Distrubution Repositry
- - [Debian](http://linux.cse.yzu.edu.tw/debian/) (http|ftp|rsync)
- - [Ubuntu](http://linux.cse.yzu.edu.tw/ubuntu/) (http|ftp|rsync)
- - [Linux Mint](http://forum.cse.yzu.edu.tw/Linux/linuxmint/packages/) (http|ftp)
- - [Linux Mint Debian Edition(LMDE)](http://forum.cse.yzu.edu.tw/Linux/linuxmint/debian/latest/) (http|ftp)
- - [Linux Deepin](http://forum.cse.yzu.edu.tw/Linux/Deepin/deepin/) (http|ftp)
+ - [Debian](http://ftp.yzu.edu.tw/Linux/debian/) (http|ftp|rsync)
+ - [Ubuntu](http://ftp.yzu.edu.tw/Linux/ubuntu/) (http|ftp|rsync)
+ - [Linux Mint](http://ftp.yzu.edu.tw/Linux/linuxmint/packages/) (http|ftp|rsync)
+ - [Linux Mint Debian Edition(LMDE)](http://ftp.yzu.edu.tw/Linux/linuxmint/debian/latest/) (http|ftp|rsync)
+ - [Linux Deepin](http://ftp.yzu.edu.tw/Linux/deepin/) (http|ftp|rsync)
 
 # For Raspberry Pi
 
 ## Operatin System
 
-### [Image Download](http://forum.cse.yzu.edu.tw/Linux/raspberrypi/) (http|ftp)
+### [Image Download](http://ftp.yzu.edu.tw/Linux/raspberrypi/) (http|ftp|rsync)
  - Raspbian
  - Arch Linux ARM
  - Pidora
@@ -43,8 +43,8 @@ open source mirror resources in YZU
  - RaspBMC
 
 ### Software Repositry
- - [Raspbian](http://ftp.cse.yzu.edu.tw/) (http|ftp|rsync)
- - [archive.raspberrypi.org](http://forum.cse.yzu.edu.tw/Linux/archive.raspberrypi.org/) (also for Raspbian) (http|ftp)
+ - [Raspbian](http://ftp.yzu.edu.tw/Linux/raspbian/raspbian/) (http|ftp|rsync)
+ - [archive.raspberrypi.org](http://ftp.yzu.edu.tw/Linux/archive.raspberrypi.org/) (also for Raspbian) (http|ftp|rsync)
 
 
 # All Server List
