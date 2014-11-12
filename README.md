@@ -54,6 +54,11 @@ FreeBSD | http://ftp.yzu.edu.tw/BSD/FreeBSD/
 OpenBSD | http://ftp.yzu.edu.tw/BSD/OpenBSD/
 NetBSD | http://ftp.yzu.edu.tw/BSD/NetBSD/
 
+# Other projects/mirrors
+
+| | | | |
+|------------- | ------------- | ------------- | -------------|
+| [Putty](http://ftp.yzu.edu.tw/putty/) | [RFC](http://ftp.yzu.edu.tw/RFC/) | [cygwin](http://ftp.yzu.edu.tw/cygwin/) | [nongnu(Savannah)](http://ftp.yzu.edu.tw/nongnu/)|
 
 # All Server List
  - http://ftp.cse.yzu.edu.tw/ 
