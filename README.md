@@ -40,5 +40,12 @@ Linux Deepin | http://ftp.yzu.edu.tw/Linux/deepin/
 Raspbian | http://ftp.yzu.edu.tw/Linux/raspbian/raspbian/
 archive.raspberrypi.org | http://ftp.yzu.edu.tw/Linux/archive.raspberrypi.org/
 
+# Archive Network
+Project Name | URL
+------------- | -------------
+CPAN | http://ftp.yzu.edu.tw/CPAN/
+CRAN | http://ftp.yzu.edu.tw/CRAN/
+CTAN | http://ftp.yzu.edu.tw/CTAN/
+
 # All Server List
  - http://ftp.cse.yzu.edu.tw/ 
