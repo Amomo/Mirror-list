@@ -16,10 +16,10 @@ open source mirror resources in YZU
 ## Distrubution Install ISO/Image
  - [Debian](http://linux.cse.yzu.edu.tw/debian-cd/) (http|ftp|rsync)
  - [Ubuntu](http://linux.cse.yzu.edu.tw/ubuntu-releases/) (http|ftp|rsync)
- - [Kubuntu(14.04 only)](http://forum.cse.yzu.edu.tw/linux/kubuntu-releases/) (http|ftp)
- - [Lubuntu(14.04 only)](http://forum.cse.yzu.edu.tw/linux/lubuntu-release/) (http|ftp)
- - [Xubuntu(14.04 only)](http://forum.cse.yzu.edu.tw/linux/xubuntu-release/) (http|ftp)
- - [Ubuntu Gnome(14.04 only)](http://forum.cse.yzu.edu.tw/linux/ubuntu-gnome-releases/) (http|ftp)
+ - [Kubuntu(14.04+)](http://forum.cse.yzu.edu.tw/linux/kubuntu-releases/) (http|ftp)
+ - [Lubuntu(14.04+)](http://forum.cse.yzu.edu.tw/linux/lubuntu-release/) (http|ftp)
+ - [Xubuntu(14.04+)](http://forum.cse.yzu.edu.tw/linux/xubuntu-release/) (http|ftp)
+ - [Ubuntu Gnome(14.04+)](http://forum.cse.yzu.edu.tw/linux/ubuntu-gnome-releases/) (http|ftp)
  - [Linux Mint](http://forum.cse.yzu.edu.tw/Linux/linuxmint/isos/) (http|ftp)
  - [Linux Deepin](http://forum.cse.yzu.edu.tw/Linux/Deepin/deepin-cd/) (http|ftp)
 
