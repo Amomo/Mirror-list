@@ -48,6 +48,4 @@ open source mirror resources in YZU
 
 
 # All Server List
- - http://forum.cse.yzu.edu.tw/Linux/  (http|ftp)
- - http://linux.cse.yzu.edu.tw/ (http|ftp|rsync)
  - http://ftp.cse.yzu.edu.tw/ (http|ftp|rsync)
