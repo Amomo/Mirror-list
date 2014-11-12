@@ -47,5 +47,13 @@ CPAN | http://ftp.yzu.edu.tw/CPAN/
 CRAN | http://ftp.yzu.edu.tw/CRAN/
 CTAN | http://ftp.yzu.edu.tw/CTAN/
 
+# BSD
+Name | URL
+------------- | -------------
+FreeBSD | http://ftp.yzu.edu.tw/BSD/FreeBSD/
+OpenBSD | http://ftp.yzu.edu.tw/BSD/OpenBSD/
+NetBSD | http://ftp.yzu.edu.tw/BSD/NetBSD/
+
+
 # All Server List
  - http://ftp.cse.yzu.edu.tw/ 
