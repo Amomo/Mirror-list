@@ -7,10 +7,6 @@ We support http, ftp and rsync protocols!
 
 ---------
 
-# Gnu
-
-## [Gnu utils](http://ftp.yzu.edu.tw/gnu/)
-
 # Linux
 
 ## [Kernel](http://ftp.yzu.edu.tw/Linux/kernel/)
@@ -59,6 +55,7 @@ NetBSD | http://ftp.yzu.edu.tw/BSD/NetBSD/
 | | | | |
 |------------- | ------------- | ------------- | -------------|
 | [Putty](http://ftp.yzu.edu.tw/putty/) | [RFC](http://ftp.yzu.edu.tw/RFC/) | [cygwin](http://ftp.yzu.edu.tw/cygwin/) | [nongnu(Savannah)](http://ftp.yzu.edu.tw/nongnu/)|
+| [Gnu utils](http://ftp.yzu.edu.tw/gnu/) | | |
 
 # All Server List
  - http://ftp.cse.yzu.edu.tw/ 
