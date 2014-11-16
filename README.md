@@ -23,6 +23,7 @@ Xubuntu(14.04+) | http://ftp.yzu.edu.tw/Linux/xubuntu-release/
 Ubuntu Gnome(14.04+) | http://ftp.yzu.edu.tw/Linux/ubuntu-gnome-releases/
 Linux Mint | http://ftp.yzu.edu.tw/Linux/linuxmint/isos/
 Linux Deepin | http://ftp.yzu.edu.tw/Linux/deepin-cd/
+Arch Linux | http://ftp.cse.yzu.edu.tw/Linux/archlinux/iso/
 Raspberry Pi | http://ftp.yzu.edu.tw/Linux/raspberrypi/
 
 ## Distrubution Repositry
@@ -33,6 +34,7 @@ Ubuntu | http://ftp.yzu.edu.tw/Linux/ubuntu/
 Linux Mint | http://ftp.yzu.edu.tw/Linux/linuxmint/packages/
 Linux Mint Debian Edition(LMDE) | http://ftp.yzu.edu.tw/Linux/linuxmint/debian/latest/
 Linux Deepin | http://ftp.yzu.edu.tw/Linux/deepin/
+Arch Linux | http://ftp.yzu.edu.tw/Linux/archlinux/$repo/os/$arch
 Raspbian | http://ftp.yzu.edu.tw/Linux/raspbian/raspbian/
 archive.raspberrypi.org | http://ftp.yzu.edu.tw/Linux/archive.raspberrypi.org/
 
