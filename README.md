@@ -53,6 +53,7 @@ Name | URL
 FreeBSD | http://ftp.yzu.edu.tw/BSD/FreeBSD/
 OpenBSD | http://ftp.yzu.edu.tw/BSD/OpenBSD/
 NetBSD | http://ftp.yzu.edu.tw/BSD/NetBSD/
+DragonFlyBSD | http://ftp.yzu.edu.tw/BSD/DragonFlyBSD/
 
 # Other projects/mirrors
 
