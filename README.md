@@ -62,5 +62,5 @@ DragonFlyBSD | http://ftp.yzu.edu.tw/BSD/DragonFlyBSD/
 | [Putty](http://ftp.yzu.edu.tw/putty/) | [RFC](http://ftp.yzu.edu.tw/RFC/) | [cygwin](http://ftp.yzu.edu.tw/cygwin/) | [nongnu(Savannah)](http://ftp.yzu.edu.tw/nongnu/)|
 | [Gnu utils](http://ftp.yzu.edu.tw/gnu/) | | |
 
-# All Server List
- - http://ftp.cse.yzu.edu.tw/ 
+# Main site url
+ - http://ftp.yzu.edu.tw/ 
