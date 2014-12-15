@@ -17,7 +17,7 @@ We support http, ftp and rsync protocols!
 ------------- | ------------- | ------------- | ------------- | -------------
 [Ubuntu](http://ftp.yzu.edu.tw/Linux/ubuntu-releases/) | [Kubuntu(14.04+)](http://ftp.yzu.edu.tw/Linux/kubuntu-releases/) |  [Lubuntu(14.04+)](http://ftp.yzu.edu.tw/Linux/lubuntu-release/) | [Xubuntu(14.04+)](http://ftp.yzu.edu.tw/Linux/xubuntu-release/) | [UbuntuGnome(14.04+)](http://ftp.yzu.edu.tw/Linux/ubuntu-gnome-releases/)
 [Debian](http://ftp.yzu.edu.tw/Linux/debian-cd/) | [Linux Mint](http://ftp.yzu.edu.tw/Linux/linuxmint/isos/) | [Linux Deepin](http://ftp.yzu.edu.tw/Linux/deepin-cd/) | [Arch Linux](http://ftp.cse.yzu.edu.tw/Linux/archlinux/iso/) | [BlackArch](http://ftp.cse.yzu.edu.tw/Linux/blackarch/iso/)
-[Trisquel](http://ftp.yzu.edu.tw/Linux/trisquel.iso/) | [Raspberry Pi](http://ftp.yzu.edu.tw/Linux/raspberrypi/) | [Ubuntu(old)](http://ftp.yzu.edu.tw/Linux/ubuntu-old-releases/releases/) | | [Openwall GNU/*/Linux (Owl)](http://ftp.yzu.edu.tw/Linux/Owl/) |
+[Trisquel](http://ftp.yzu.edu.tw/Linux/trisquel.iso/) | [Raspberry Pi](http://ftp.yzu.edu.tw/Linux/raspberrypi/) | [Ubuntu(old)](http://ftp.yzu.edu.tw/Linux/ubuntu-old-releases/releases/) | [Slackware](http://ftp.yzu.edu.tw/Linux/slackware/) | [Openwall GNU/*/Linux (Owl)](http://ftp.yzu.edu.tw/Linux/Owl/) |
 
 
 ## Distrubution Repositry
