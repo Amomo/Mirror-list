@@ -22,7 +22,7 @@ We support http, ftp and rsync protocols!
 [CentOS](http://ftp.yzu.edu.tw/Linux/CentOS/) |[Alpine](http://ftp.yzu.edu.tw/Linux/alpine/) | | |
 
 
-## Distrubution Repositry
+## Distrubution Repository
 Distro name | Repo URL
 ------------- | -------------
 Debian | http://ftp.yzu.edu.tw/Linux/debian/
