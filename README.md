@@ -19,7 +19,7 @@ We support http, ftp and rsync protocols!
 [Debian](http://ftp.yzu.edu.tw/Linux/debian-cd/) | [Linux Mint](http://ftp.yzu.edu.tw/Linux/linuxmint/isos/) | [Linux Deepin](http://ftp.yzu.edu.tw/Linux/deepin-cd/) | [Arch Linux](http://ftp.cse.yzu.edu.tw/Linux/archlinux/iso/) | [BlackArch](http://ftp.cse.yzu.edu.tw/Linux/blackarch/iso/)
 [Trisquel](http://ftp.yzu.edu.tw/Linux/trisquel.iso/) | [Raspberry Pi](http://ftp.yzu.edu.tw/Linux/raspberrypi/) | [Ubuntu(old)](http://ftp.yzu.edu.tw/Linux/ubuntu-old-releases/releases/) | [Slackware](http://ftp.yzu.edu.tw/Linux/slackware/) | [Openwall GNU/*/Linux (Owl)](http://ftp.yzu.edu.tw/Linux/Owl/) |
  [Scientific](http://ftp.yzu.edu.tw/Linux/scientific/) | [OpenSUSE](http://ftp.yzu.edu.tw/Linux/openSUSE/distribution/) | [Linux Lite](http://ftp.yzu.edu.tw/Linux/linuxlite/isos/) | [Mageia](http://ftp.yzu.edu.tw/Linux/mageia/iso/) | [OpenMandriva](http://ftp.yzu.edu.tw/Linux/openmandriva/)
-[CentOS](http://ftp.yzu.edu.tw/Linux/CentOS/) | [Alpine](http://ftp.yzu.edu.tw/Linux/alpine/) | [Gentoo](http://ftp.yzu.edu.tw/Linux/gentoo/releases/) | [gNewSense](http://ftp.yzu.edu.tw/Linux/gnewsense-cdimage/) |
+[CentOS](http://ftp.yzu.edu.tw/Linux/CentOS/) | [Alpine](http://ftp.yzu.edu.tw/Linux/alpine/) | [Gentoo](http://ftp.yzu.edu.tw/Linux/gentoo/releases/) | [gNewSense](http://ftp.yzu.edu.tw/Linux/gnewsense-cdimage/) | [Kali](http://ftp.yzu.edu.tw/Linux/kali-images/)
 
 
 ## Distrubution Repository
