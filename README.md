@@ -35,6 +35,7 @@ Arch Linux | http://ftp.yzu.edu.tw/Linux/archlinux/$repo/os/$arch
 BlackArch | http://ftp.yzu.edu.tw/Linux/blackarch/$repo/os/$arch
 Gentoo | http://ftp.yzu.edu.tw/Linux/gentoo-portage/
 Fedora | http://ftp.yzu.edu.tw/Linux/Fedora/linux/updates/
+Extra Packages for Enterprise Linux(EPEL) | http://ftp.yzu.edu.tw/Linux/Fedora-EPEL/
 Raspbian | http://ftp.yzu.edu.tw/Linux/raspbian/raspbian/
 archive.raspberrypi.org | http://ftp.yzu.edu.tw/Linux/archive.raspberrypi.org/
 
