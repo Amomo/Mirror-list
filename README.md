@@ -30,6 +30,7 @@ Debian | http://ftp.yzu.edu.tw/Linux/debian/
 Debian Archives | http://ftp.yzu.edu.tw/Linux/debian-archive/
 Debian non-US | http://ftp.yzu.edu.tw/Linux/debian-non-US/
 Debian Backports | http://ftp.yzu.edu.tw/Linux/debian-backports/
+Debian Multimedia | http://ftp.yzu.edu.tw/Linux/debian-multimedia/
 Ubuntu | http://ftp.yzu.edu.tw/Linux/ubuntu/
 Linux Mint | http://ftp.yzu.edu.tw/Linux/linuxmint/packages/
 Linux Mint Debian Edition(LMDE) | http://ftp.yzu.edu.tw/Linux/linuxmint/debian/latest/
