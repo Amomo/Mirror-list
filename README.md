@@ -27,6 +27,7 @@ We support http, ftp and rsync protocols!
 Distro name | Repo URL
 ------------- | -------------
 Debian | http://ftp.yzu.edu.tw/Linux/debian/
+Debian Archives | http://ftp.yzu.edu.tw/Linux/debian-archive/
 Ubuntu | http://ftp.yzu.edu.tw/Linux/ubuntu/
 Linux Mint | http://ftp.yzu.edu.tw/Linux/linuxmint/packages/
 Linux Mint Debian Edition(LMDE) | http://ftp.yzu.edu.tw/Linux/linuxmint/debian/latest/
