@@ -42,6 +42,7 @@ Fedora | http://ftp.yzu.edu.tw/Linux/Fedora/linux/updates/
 Extra Packages for Enterprise Linux(EPEL) | http://ftp.yzu.edu.tw/Linux/Fedora-EPEL/
 Packman | http://ftp.yzu.edu.tw/Linux/packman/
 Kali | http://ftp.yzu.edu.tw/Linux/kali/
+Kali Security | http://ftp.yzu.edu.tw/Linux/kali-security/
 Raspbian | http://ftp.yzu.edu.tw/Linux/raspbian/raspbian/
 archive.raspberrypi.org | http://ftp.yzu.edu.tw/Linux/archive.raspberrypi.org/
 
