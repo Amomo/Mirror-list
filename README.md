@@ -43,6 +43,7 @@ Extra Packages for Enterprise Linux(EPEL) | http://ftp.yzu.edu.tw/Linux/Fedora-E
 Packman | http://ftp.yzu.edu.tw/Linux/packman/
 Kali | http://ftp.yzu.edu.tw/Linux/kali/
 Kali Security | http://ftp.yzu.edu.tw/Linux/kali-security/
+Trisquel | http://ftp.yzu.edu.tw/Linux/trisquel.packages/
 Raspbian | http://ftp.yzu.edu.tw/Linux/raspbian/raspbian/
 archive.raspberrypi.org | http://ftp.yzu.edu.tw/Linux/archive.raspberrypi.org/
 
